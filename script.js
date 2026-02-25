@@ -1,0 +1,13 @@
+//console.log("Hello World");
+var num=10;
+console.log(num);
+num =false;
+console.log(typeof(num));
+age=24;
+console.log(typeof(age));
+de="hello";
+console.log(typeof(de));
+res= null;
+console.log(typeof(res));
+des=undefined;
+console.log(typeof(des));
