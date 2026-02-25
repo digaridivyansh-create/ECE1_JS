@@ -32,12 +32,23 @@ let b=25;
 ++b;
 console.log(a);
 console.log(b);*/
-let a=2;
+/*let a=2;
 a+=4;
 console.log(a);
 let b=4;
 b*=6;
+console.log(b);*/
+let a=20;
+let b=40;
+a+=b;
+console.log(a);
+a+=14;
+console.log(a);
+b-=23;
 console.log(b);
+b+=12;
+console.log(b);
+
 
 
 
