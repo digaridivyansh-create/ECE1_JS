@@ -26,12 +26,21 @@ if(sym1==sym2){
 else{
     console.log("false");
 }*/
-let a=10;
+/*let a=10;
 ++a;
 let b=25;
 ++b;
 console.log(a);
+console.log(b);*/
+let a=2;
+a+=4;
+console.log(a);
+let b=4;
+b*=6;
 console.log(b);
+
+
+
 
 
 
