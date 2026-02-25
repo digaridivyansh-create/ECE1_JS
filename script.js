@@ -38,7 +38,7 @@ console.log(a);
 let b=4;
 b*=6;
 console.log(b);*/
-let a=20;
+/*let a=20;
 let b=40;
 a+=b;
 console.log(a);
@@ -47,7 +47,17 @@ console.log(a);
 b-=23;
 console.log(b);
 b+=12;
-console.log(b);
+console.log(b);*/
+let x=10;
+let y=2;
+if(x=10 && y>1){
+    console.log(x);
+}
+let age=35;
+let result=age>=18?"adult":"child";
+console.log(result);
+
+
 
 
 
