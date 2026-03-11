@@ -22,14 +22,47 @@ if (age > 18) {
   console.log("you are a minor");
 }*/
 
-var grade='A';
+/*var grade='A';
 document.write("entering switch block"+"<br/>");
 switch(grade){
     case 'A':document.write("good job</br>");
     break;
-    case 'B':document.write("prettier good</br>");
+    case 'B':document.write("pretty good</br>");
     break;
     case 'C':document.write("passed</br>");
     break;
+    case 'D':document.write("not so good</br>");
+    break;
+    case 'F':document.write("failed</br>");
     default:document.write("invalid grade</br>");
+}*/
+
+/*function myfunction(){
+    alert("hello world");
+}*/
+
+/*function sayHello(name,age){
+    document.write(name+"is"+age+"years old");
+}*/
+
+//arrow function
+//arrow function is a anonyms function which does not have its own this keyword and it is not used as a constructor
+
+/*var add2=(a,b)=>{
+    console.log(a+b);
 }
+add2(5,10);*/
+
+var person = {
+    name: "ajay",
+    age: 30,
+    isMarried: true,
+    address: {
+        street: "vinay nagar",
+        FlatNO: 201
+    }
+};
+
+console.log(person);
+
+
