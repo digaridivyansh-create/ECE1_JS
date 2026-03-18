@@ -53,7 +53,7 @@ switch(grade){
 }
 add2(5,10);*/
 
-var person = {
+/*var person = {
     name: "ajay",
     age: 30,
     isMarried: true,
@@ -63,6 +63,20 @@ var person = {
     }
 };
 
-console.log(person);
+console.log(person);*/
+//diff between object and array
+//array is ordered collection of data
+//object is a key value pair
+//array stats with index 0
+//object starts property name
+
+var person2 =newObject();
+person2.name="krishkant";
+person2.age=32;
+person2.address={};
+person2.address.street="nagar.road";
+person2["adress"]['FlatNO']=32;
+
+
 
 
